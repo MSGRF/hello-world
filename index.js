@@ -1,1 +1,0 @@
-document.writeln("MS Future");
